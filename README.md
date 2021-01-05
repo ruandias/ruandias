@@ -26,9 +26,11 @@
 <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" width="50px" alt="CSS 3">
 <img src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg" width="50px" alt="Javascript">
 <img src="https://www.flaticon.com/svg/static/icons/svg/74/74906.svg" width="50px" alt="Csharp">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" width="50px" alt=".NET">
 <img src="https://www.flaticon.com/svg/static/icons/svg/919/919839.svg" width="50px" alt="C">
 <img src="https://miro.medium.com/max/488/1*zzvdRmHGGXONZpuQ2FeqsQ.png" width="50px" alt="Git">
 <img src="https://www.flaticon.com/svg/static/icons/svg/3161/3161133.svg" width="50px" alt="SQL">
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="50px" alt="mongoDB">
 
 
 
