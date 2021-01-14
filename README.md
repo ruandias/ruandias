@@ -1,98 +1,25 @@
 ### Hi there, I'm Ruan Dias - 👋
+[![LinkedIn][1.2]][linkedin] [![Twitter][2.2]][twitter] [![Devto][3.3]][devto]
 
 ## 💼 .NET developer
 - 📚 I’m currently learning Angular 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🏋️ Hobbies: Calisthenics | Jump rope | Running
 
+### Keep Learning 🤓:
 
-
-### Connect with me:
-</br>
-
-[<img align="left" alt="codeSTACKr | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-</br>
-</br>
-
-### Languages, Frameworks and Tools:
-</br>
-<table style="width:100%">
-  <tr>
-    <th>Languages</th>
-    <th>Tools</th>
-    <th>Frameworks</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.flaticon.com/svg/static/icons/svg/74/74906.svg" width="50px" alt="Csharp">
-    </td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="50px" alt="Terminal">
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" width="50px" alt=".NET">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg" width="50px" alt="Javascript">
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="50px" alt="Visual Studio Code">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.flaticon.com/svg/static/icons/svg/919/919839.svg" width="50px" alt="C">
-    </td>
-    <td>
-      <img src="https://www.flaticon.com/svg/static/icons/svg/733/733609.svg" width="50px" alt="Github">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.flaticon.com/svg/static/icons/svg/174/174854.svg" width="50px" alt="HTML 5">
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Visual_Studio_2013_Logo.svg" width="50px" alt="Visual Studio">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" width="50px" alt="CSS 3">
-    </td>
-    <td>
-      <img src="https://miro.medium.com/max/488/1*zzvdRmHGGXONZpuQ2FeqsQ.png" width="50px" alt="Git">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.flaticon.com/svg/static/icons/svg/3161/3161133.svg" width="50px" alt="SQL">
-    </td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="50px" alt="mongoDB">
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br />
-<br />
-
+![](https://img.shields.io/badge/-.NET-5C2D91?style=plastic&logo=.net&color=5C2D91&labelColor=purple)
+![](https://img.shields.io/badge/-Csharp-5C2D91?style=plastic&logo=c-sharp&color=5C2D91&labelColor=purple)
+![](https://img.shields.io/badge/-JavaScript-Yellow?style=plastic&logo=javascript&color=F7DF1E&labelColor=CB9E04)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&color=3178C6&labelColor=040ACB)
+![](https://img.shields.io/badge/-C-Gray?style=plastic&logo=C&color=808080&labelColor=5D575C)
+![](https://img.shields.io/badge/-Angular-Red?style=plastic&logo=angular&color=FF0000&labelColor=black)
+![](https://img.shields.io/badge/-HTML5-White?style=plastic&logo=html5&color=FF6600&labelColor=FFFFFF)
+![](https://img.shields.io/badge/-CSS3-Blue?style=plastic&logo=css3&color=0080FF&labelColor=blue)
+![](https://img.shields.io/badge/-mongoDB-Green?style=plastic&logo=mongoDB&color=5AB300&labelColor=white)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -110,3 +37,10 @@
 
 [twitter]: https://twitter.com/RuanDia52736792
 [linkedin]: https://www.linkedin.com/in/ruan-dias-06a808192/
+[devto]: https://dev.to/ruandias
+
+<!-- Icons -->
+
+[1.2]: https://img.shields.io/badge/LinkedIn--0077B5?style=social&logo=linkedin
+[2.2]: https://img.shields.io/badge/Twitter--1DA1F2?style=social&logo=twitter
+[3.3]: https://img.shields.io/badge/DEV-0A0A0A?style=social&logo=dev.to
