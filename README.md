@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/-CSS3-Blue?style=plastic&logo=css3&color=0080FF&labelColor=blue)
 ![](https://img.shields.io/badge/-mongoDB-Green?style=plastic&logo=mongoDB&color=5AB300&labelColor=white)
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/ElasticSearch-1E90FF?style=plastic&logo=elasticSearch&logoColor=white)
+![](https://img.shields.io/badge/Kibana-FF69B4?style=plastic&logo=kibana&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 
