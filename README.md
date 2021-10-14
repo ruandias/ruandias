@@ -2,7 +2,6 @@
 [![LinkedIn][1.2]][linkedin] [![Twitter][2.2]][twitter] [![Devto][3.3]][devto]
 
 ## 💼 .NET developer
-- 📚 I’m currently learning Angular 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🏋️ Hobbies: Calisthenics | Jump rope | Running
 
